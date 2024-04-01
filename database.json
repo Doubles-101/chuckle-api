@@ -1,0 +1,48 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "text": "I went to buy some camo pants but couldn’t find any.",
+      "told": false
+    },
+    {
+      "id": 2,
+      "text": "I always find elevator jokes to be uplifting.",
+      "told": true
+    },
+    {
+      "id": 3,
+      "text": "Most people are shocked when they find out how bad I am as an electrician.",
+      "told": false
+    },
+    {
+      "id": 4,
+      "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
+      "told": false
+    },
+    {
+      "id": 5,
+      "text": "I failed math so many times at school, I can’t even count",
+      "told": true
+    },
+    {
+      "joke": "Hello, 3:22pm",
+      "id": 6
+    },
+    {
+      "text": "HAHAHAHAH",
+      "told": true,
+      "id": 10
+    },
+    {
+      "text": "ME BIG FUNNY",
+      "told": true,
+      "id": 11
+    },
+    {
+      "text": "Hahahah, I figured it out!",
+      "told": false,
+      "id": 12
+    }
+  ]
+}
